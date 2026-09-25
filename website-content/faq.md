@@ -29,7 +29,7 @@ Yes! We groom both dogs and cats. Many cats do much better with mobile grooming 
 Most grooms take about **60 to 90 minutes**, depending on your dog's size, coat and the services you choose. Because we work one-on-one, your dog gets our full attention the whole time.
 
 ### Do I need to be home?
-Not necessarily. Many clients leave a door code or arrange for a housekeeper or sitter to hand off their pup. Just let us know the plan when you book.
+For the first appointment, we'd like you to be home so you can tell us how you'd like your pet groomed and how to get your pet if you're not home next time. After that, many clients leave a door code or arrange for a housekeeper or sitter to hand off their pup.
 
 ### Do you need water or electricity from my house?
 No. Our vans are fully self-contained, with their own fresh water, warm-water system and power. All we need is a place to park, like your driveway or the street in front of your home.
@@ -139,7 +139,7 @@ This code lets Google and AI tools read your Q&As directly. The answers match th
     {
       "@type": "Question",
       "name": "Do I need to be home?",
-      "acceptedAnswer": { "@type": "Answer", "text": "Not necessarily. Many clients leave a door code or arrange for a housekeeper or sitter to hand off their pup. Just let us know the plan when you book." }
+      "acceptedAnswer": { "@type": "Answer", "text": "For the first appointment, we'd like you to be home so you can tell us how you'd like your pet groomed and how to get your pet if you're not home next time. After that, many clients leave a door code or arrange for a housekeeper or sitter to hand off their pup." }
     }
   ]
 }
