@@ -2,7 +2,7 @@
 
 - **URL slug:** `/mobile-dog-grooming-faq/`
 - **SEO Title (under 60 characters):** Mobile Dog Grooming FAQ | H. Williams Mobile Pet Spa
-- **Meta Description (under 155 characters):** How mobile dog grooming works, how long it takes, what it costs and what you need at home. Serving Greenwich, Stamford, Darien, New Canaan & Rye.
+- **Meta Description (under 155 characters):** How mobile dog grooming works, how long it takes, what's included and what you need at home. Serving Greenwich, Stamford, Darien, New Canaan & Rye.
 
 ---
 
@@ -18,7 +18,7 @@ We get a lot of great questions from new clients (and a few from their dogs, mos
 Mobile dog grooming means the grooming salon comes to you. Our groomers pull up at your home in a fully equipped, self-contained van with a tub, warm water, a grooming table and professional dryers. Your dog is bathed, groomed and pampered right in your driveway, then handed back to you clean and happy. No car rides, no cages and no waiting around a busy salon.
 
 ### What areas do you serve?
-We serve Greenwich (including Old Greenwich, Cos Cob, Riverside and Belle Haven), Stamford, Darien, New Canaan and Rye, NY, plus the surrounding towns. [ADD ANY OTHER TOWNS: e.g., Westport, Norwalk, Harrison, Port Chester, Scarsdale.] Not sure if you're in our area? Call or text us at **203-900-7704**.
+We serve Greenwich (including Old Greenwich, Cos Cob, Riverside and Belle Haven), Stamford, Darien, New Canaan, Rye, NY and Port Chester, NY. Not sure if you're in our area? Call or text us at **203-900-7704**.
 
 ### Do you groom cats too?
 Yes! We groom both dogs and cats. Many cats do much better with mobile grooming because they skip the stressful car ride.
@@ -29,7 +29,7 @@ Yes! We groom both dogs and cats. Many cats do much better with mobile grooming 
 Most grooms take about **60 to 90 minutes**, depending on your dog's size, coat and the services you choose. Because we work one-on-one, your dog gets our full attention the whole time.
 
 ### Do I need to be home?
-[CHOOSE ONE: "Yes, we ask that someone be home at the start and end of the appointment." OR "Not necessarily. Many clients leave a door code or arrange for a housekeeper or sitter to hand off their pup."]
+Not necessarily. Many clients leave a door code or arrange for a housekeeper or sitter to hand off their pup. Just let us know the plan when you book.
 
 ### Do you need water or electricity from my house?
 No. Our vans are fully self-contained, with their own fresh water, warm-water system and power. All we need is a place to park, like your driveway or the street in front of your home.
@@ -41,18 +41,18 @@ Never. Every appointment is one dog, one groomer, one van. That means less stres
 It's often the best option for them. Anxious dogs skip the car ride, the noisy salon and the hours in a crate. Senior dogs get a calm, quiet setting and a groomer who can go at their pace, with breaks whenever they need them. Let us know about any health issues, sensitivities or behavior quirks when you book, and we'll plan around them.
 
 ### What products do you use?
-We use high-quality, all-natural shampoos and conditioners chosen for your pet's skin and coat. [OPTIONAL: name your brands, or mention hypoallergenic, oatmeal or medicated options for sensitive skin.]
+We use high-quality, all-natural shampoos and conditioners chosen for your pet's skin and coat.
 
 ## Services & Pricing
 
 ### What's included in a full groom?
-[LIST WHAT'S INCLUDED, e.g., bath, blow-dry, brush-out, haircut/style, nail trim, ear cleaning, sanitary trim, paw pad trim, bandana or bow.]
+Every full groom includes a bath, blow-dry, haircut, ear cleaning, nail clipping and teeth brushing.
 
-### Do you offer baths only, or just nail trims?
-[YES/NO + DETAILS: e.g., "Yes, we offer bath-and-brush packages for short-coated dogs and between-groom touch-ups."]
+### Do you offer bath-only appointments?
+Yes! We offer a bath and brush service, which is great for short-coated dogs or as a freshen-up between full grooms.
 
 ### How much does mobile dog grooming cost?
-Prices depend on your dog's size, coat type and condition. [ADD STARTING PRICES, e.g., "Full grooms start at $___ for small dogs and $___ for large dogs." Even "starting at" prices help a lot, because people (and AI tools) look for them.] Doodles, double-coated breeds and matted coats may take extra time.
+Prices depend on your dog's size, coat type and condition. Doodles, double-coated breeds and matted coats may take extra time. Call or text us at **203-900-7704** for a quote.
 
 ### Why does mobile grooming cost more than a salon?
 You're paying for a private, one-on-one appointment at your door. Your dog isn't sitting in a crate for hours, and you don't lose half a day to drop-offs and pickups. Most of our clients say the time they get back is worth it on its own.
@@ -72,13 +72,13 @@ It depends on the coat:
 Many clients set up recurring appointments so they never have to think about it.
 
 ### What's your cancellation policy?
-[ADD POLICY: e.g., "We ask for 24 hours' notice to cancel or reschedule."]
+We ask for 24 hours' notice to cancel or reschedule.
 
 ### Are you licensed and insured?
 Yes. H. Williams Mobile Pet Spa is fully licensed and insured.
 
 ### What happens if it rains or snows?
-[ADD POLICY: e.g., "We groom rain or shine! The van is climate-controlled. In severe weather, we'll reach out to reschedule."]
+Light rain is no problem. Our van is fully self-contained. If heavy rain or snow makes the roads unsafe, we'll reach out to reschedule.
 
 ---
 
@@ -88,7 +88,7 @@ Yes. H. Williams Mobile Pet Spa is fully licensed and insured.
 
 ## FAQ Schema Code (paste into a "Custom HTML" block at the bottom of the page)
 
-This code lets Google and AI tools read your Q&As directly. **Only include questions whose answers are filled in** and match the page text word for word. Update the bracketed answers once the page is final.
+This code lets Google and AI tools read your Q&As directly. The answers match the page text word for word. If you edit an answer on the page, update it here too.
 
 ```html
 <script type="application/ld+json">
@@ -124,12 +124,22 @@ This code lets Google and AI tools read your Q&As directly. **Only include quest
     {
       "@type": "Question",
       "name": "What areas do you serve?",
-      "acceptedAnswer": { "@type": "Answer", "text": "We serve Greenwich (including Old Greenwich, Cos Cob, Riverside and Belle Haven), Stamford, Darien, New Canaan and Rye, NY, plus the surrounding towns." }
+      "acceptedAnswer": { "@type": "Answer", "text": "We serve Greenwich (including Old Greenwich, Cos Cob, Riverside and Belle Haven), Stamford, Darien, New Canaan, Rye, NY and Port Chester, NY." }
     },
     {
       "@type": "Question",
       "name": "Do you groom cats too?",
       "acceptedAnswer": { "@type": "Answer", "text": "Yes! We groom both dogs and cats. Many cats do much better with mobile grooming because they skip the stressful car ride." }
+    },
+    {
+      "@type": "Question",
+      "name": "What's included in a full groom?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Every full groom includes a bath, blow-dry, haircut, ear cleaning, nail clipping and teeth brushing." }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to be home?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Not necessarily. Many clients leave a door code or arrange for a housekeeper or sitter to hand off their pup. Just let us know the plan when you book." }
     }
   ]
 }

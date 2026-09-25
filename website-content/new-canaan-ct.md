@@ -43,15 +43,11 @@ Most grooms take **60 to 90 minutes**.
 
 - Full grooms and breed-specific haircuts
 - Doodle and poodle grooming
-- Bath and brush-outs
+- Bath and brush appointments
 - De-shedding for goldens, labs, shepherds and other double coats
-- Nail trims and ear cleaning
+- Nail clipping, ear cleaning and teeth brushing
 - Gentle grooming for puppies, seniors and anxious dogs
 - Cat grooming
-
-## What Our New Canaan Clients Say
-
-> "[PASTE A REAL REVIEW FROM A NEW CANAAN CLIENT]"
 
 ## New Canaan Mobile Grooming FAQs
 
@@ -66,7 +62,7 @@ Absolutely. We just need a reasonably flat spot to park. If there's any question
 
 ## Also Serving Nearby
 
-We also groom in [Greenwich](/mobile-dog-grooming-greenwich-ct/), [Darien](/mobile-dog-grooming-darien-ct/), Stamford and [Rye, NY](/mobile-dog-grooming-in-rye-ny/). Have more questions? Check out our [Mobile Grooming FAQ](/mobile-dog-grooming-faq/).
+We also groom in [Greenwich](/mobile-dog-grooming-greenwich-ct/), [Darien](/mobile-dog-grooming-darien-ct/), [Stamford](/mobile-dog-grooming-stamford-ct/) and [Rye, NY](/mobile-dog-grooming-in-rye-ny/). Have more questions? Check out our [Mobile Grooming FAQ](/mobile-dog-grooming-faq/).
 
 ---
 

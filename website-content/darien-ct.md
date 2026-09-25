@@ -43,15 +43,11 @@ Most grooms take **60 to 90 minutes**.
 
 - Full grooms and breed-specific cuts
 - Doodle and poodle grooming
-- Bath and brush-outs
+- Bath and brush appointments
 - De-shedding treatments for double-coated breeds
-- Nail trims and ear cleaning
+- Nail clipping, ear cleaning and teeth brushing
 - Gentle grooming for puppies, seniors and anxious dogs
 - Cat grooming
-
-## What Our Darien Clients Say
-
-> "[PASTE A REAL REVIEW FROM A DARIEN CLIENT]"
 
 ## Darien Mobile Grooming FAQs
 
@@ -66,7 +62,7 @@ Very. There's no car ride, no noisy salon and no other dogs, just one calm groom
 
 ## Also Serving Nearby
 
-We also groom in [Greenwich](/mobile-dog-grooming-greenwich-ct/), [New Canaan](/mobile-dog-grooming-new-canaan-ct/), Stamford and [Rye, NY](/mobile-dog-grooming-in-rye-ny/). Have questions? Visit our [Mobile Grooming FAQ](/mobile-dog-grooming-faq/).
+We also groom in [Greenwich](/mobile-dog-grooming-greenwich-ct/), [New Canaan](/mobile-dog-grooming-new-canaan-ct/), [Stamford](/mobile-dog-grooming-stamford-ct/) and [Rye, NY](/mobile-dog-grooming-in-rye-ny/). Have questions? Visit our [Mobile Grooming FAQ](/mobile-dog-grooming-faq/).
 
 ---
 

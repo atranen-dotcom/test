@@ -45,20 +45,22 @@ Most grooms take **60 to 90 minutes**, and your dog gets our full attention from
 ## Mobile Grooming Services in Greenwich
 
 - Full grooms and breed-specific haircuts
-- Bath and brush-outs
+- Bath and brush appointments
 - Doodle and poodle grooming
 - De-shedding for double coats (goldens, labs, shepherds and more)
-- Nail trims and ear cleaning
+- Nail clipping, ear cleaning and teeth brushing
 - Gentle grooming for puppies, seniors and anxious dogs
 - Cat grooming
 
-[ADD PRICING OR "STARTING AT" PRICES IF YOU'RE COMFORTABLE SHARING THEM.]
+Every full groom includes a bath, blow-dry, haircut, ear cleaning, nail clipping and teeth brushing.
 
 ## What Our Greenwich Clients Say
 
-> "[PASTE A REAL REVIEW FROM A GREENWICH CLIENT, WITH THEIR FIRST NAME AND LAST INITIAL, e.g., 'Sarah K., Old Greenwich']"
+> "Best groomer in Greenwich!"
+> — Tia M., Greenwich
 
-> "[PASTE A SECOND REAL REVIEW]"
+> "Joanna is the absolute best."
+> — Jocelyn W., Greenwich
 
 ## Greenwich Mobile Grooming FAQs
 
@@ -76,7 +78,7 @@ Nope. Our vans are fully self-contained with their own water and power. We just 
 
 ## Also Serving Nearby
 
-Not in Greenwich? We also groom in Stamford, [Darien](/mobile-dog-grooming-darien-ct/), [New Canaan](/mobile-dog-grooming-new-canaan-ct/) and [Rye, NY](/mobile-dog-grooming-in-rye-ny/). See our [Mobile Grooming FAQ](/mobile-dog-grooming-faq/) for more.
+Not in Greenwich? We also groom in [Stamford](/mobile-dog-grooming-stamford-ct/), [Darien](/mobile-dog-grooming-darien-ct/), [New Canaan](/mobile-dog-grooming-new-canaan-ct/) and [Rye, NY](/mobile-dog-grooming-in-rye-ny/). See our [Mobile Grooming FAQ](/mobile-dog-grooming-faq/) for more.
 
 ---
 
